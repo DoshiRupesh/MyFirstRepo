@@ -14,5 +14,10 @@ public class testdemo {
 	{
 		System.out.println("second commit");
 	}
+	@Test
+	public void c()
+	{
+		System.out.println("third commit");
+	}
 }
 
