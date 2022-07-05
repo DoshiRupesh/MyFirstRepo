@@ -9,5 +9,10 @@ public class testdemo {
 	{
 		System.out.println("first commit");
 	}
+	@Test
+	public void b()
+	{
+		System.out.println("second commit");
+	}
 }
 
